@@ -1,32 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Strowger
 
-You can use the [editor on GitHub](https://github.com/voiceip/voiceip.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget diam at odio laoreet feugiat. Fusce auctor vitae justo et iaculis. Nullam sit amet enim in metus lobortis luctus nec volutpat ligula. Pellentesque dictum augue id risus volutpat iaculis. Duis quis porta tellus. Aliquam ut consequat leo. Pellentesque in sodales urna, quis faucibus nibh. Ut ultrices augue id feugiat lobortis. Vivamus maximus velit consequat libero suscipit posuere.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- PBX
+- SBC
+- Proxy
+- Recorder
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact
